@@ -57,5 +57,5 @@ Kiro was used to:
 
 ## Author
 
-**Aravint20**  
+**Aravint2006**  
 Have fun playing your retro AI Snake game! 🚀
